@@ -15,8 +15,11 @@ dependencies:
   http: ^0.13.3
 
 # Ejecucion: 
-Descarga el archivo comprimido denominado RestAPI_CN, descomprímelo y abre el proyecto (preferentemente) con  Visual Studio Code u otro editor de codigo.
 
-En la terminal, navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias: 'flutter pub get'
+1. clonar el repositorio: https://github.com/AleysaPc/REST_API_CN.git
 
-Posteriormente hacer correr la aplicacion con el siguiente comando: flutter run
+2. Descarga el archivo comprimido denominado RestAPI_CN, descomprímelo
+
+Abrir el proyecto (preferentemente) con  Visual Studio Code u otro editor de codigo,nn la terminal, navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias: 'flutter pub get'
+
+Posteriormente hacer correr la aplicacion con el siguiente comando: flutter run, aparecerán opciones para seleccionar el dispositivo o emulador donde se ejecutará la aplicación. Escoge según tus preferencias.
