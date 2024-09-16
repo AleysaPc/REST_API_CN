@@ -13,6 +13,7 @@ En el archivo `pubspec.yaml`, agrega la siguiente dependencia:
 
 dependencies:
   http: ^0.13.3
+  Se utiliza para hacer solicitudes HTTP. Esto incluye operaciones como obtener datos de un servidor web, enviar datos a un servidor, y más.
 
 # Ejecucion: 
 
